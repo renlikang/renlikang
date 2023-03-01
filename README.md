@@ -15,7 +15,7 @@ I have 10+ year‘s solid experience in development and devOps.
 2008.7 – 2011.6   ***information Technology***  Fudan University
 2003.7-2006.9   ***software engineering***  Shanghai Finance Institute
 
-###🖥️ Tech Stack
+## 🖥️ Tech Stack
 1. php
 2. laravel
 3. golang
