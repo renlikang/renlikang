@@ -25,6 +25,11 @@ And keep up to date with the latest capabilities and features of both Backend an
 6. rabbitmq
 7. sqs
 8. K8S
+9. aws
+10. alicloud
+11. s3, oss
+12. pgsql
+13. Mongodb
 
 ## project experience
 
