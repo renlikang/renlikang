@@ -25,3 +25,36 @@ And keep up to date with the latest capabilities and features of both Backend an
 6. rabbitmq
 7. sqs
 8. K8S
+
+## project experience
+
+DaLongYun
+
+Cloud Gameing
+
+Build the system of cloud gaming, which is a type of online gaming that runs video games on remote servers and streams them directly to a user’s device.
+
+Used cloud devices to map the rendered game to user devices (pc, phone, pad) through the network, and use the network to send user operation instructions back to the cloud.
+
+
+Live Broadcast 
+
+Build the company's own live broadcast platform and give various live broadcast interactive functions。
+
+Used socket/websocket to transmit the live voice picture of the host/user to the user device (pc, phone, pad), so that the host and user can interact.
+
+
+-Technical Points
+
+User queuing
+
+Event Tracking
+
+Social Media
+
+IM
+websocket
+socket
+rest api
+WeChat Ecosystem - H5, Mini Program, Payment, Notification, Sharing…
+aws Serve - sqs， s3， RDS， API Gateway， CloudFront
