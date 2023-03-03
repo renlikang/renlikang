@@ -30,14 +30,14 @@ And keep up to date with the latest capabilities and features of both Backend an
 
 DaLongYun
 
-Cloud Gameing
+Cloud Gameing
 
 Build the system of cloud gaming, which is a type of online gaming that runs video games on remote servers and streams them directly to a user’s device.
 
 Used cloud devices to map the rendered game to user devices (pc, phone, pad) through the network, and use the network to send user operation instructions back to the cloud.
 
 
-Live Broadcast 
+Live Broadcast 
 
 Build the company's own live broadcast platform and give various live broadcast interactive functions。
 
