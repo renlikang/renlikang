@@ -58,3 +58,12 @@ socket
 rest api
 WeChat Ecosystem - H5, Mini Program, Payment, Notification, Sharing…
 aws Serve - sqs， s3， RDS， API Gateway， CloudFront
+
+
+woof
+
+Community Content browsing， tag,  recommend， comment,  like, sharing
+
+e-commerce
+
+Product, shopping cart, coupon, order, spike
