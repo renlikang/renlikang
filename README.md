@@ -33,20 +33,27 @@ And keep up to date with the latest capabilities and features of both Backend an
 
 ## project experience
 
-DaLongYun
 
-Cloud Gameing
+project 1 - Cloud Gameing
 
 Build the system of cloud gaming, which is a type of online gaming that runs video games on remote servers and streams them directly to a user’s device.
 
 Used cloud devices to map the rendered game to user devices (pc, phone, pad) through the network, and use the network to send user operation instructions back to the cloud.
 
 
-Live Broadcast 
+project 2 - Live Broadcast 
 
 Build the company's own live broadcast platform and give various live broadcast interactive functions。
 
 Used socket/websocket to transmit the live voice picture of the host/user to the user device (pc, phone, pad), so that the host and user can interact.
+
+project 3 - community
+
+Community Content browsing， tag,  recommend， comment,  like, sharing
+
+project 4 - e-commerce
+
+Product, shopping cart, coupon, order, spike
 
 
 -Technical Points
@@ -58,17 +65,18 @@ Event Tracking
 Social Media
 
 IM
+
 websocket
+
 socket
+
 rest api
+
 WeChat Ecosystem - H5, Mini Program, Payment, Notification, Sharing…
+
 aws Serve - sqs， s3， RDS， API Gateway， CloudFront
 
 
-woof
 
-Community Content browsing， tag,  recommend， comment,  like, sharing
 
-e-commerce
 
-Product, shopping cart, coupon, order, spike
