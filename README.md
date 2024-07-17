@@ -19,7 +19,7 @@ And keep up to date with the latest capabilities and features of both Backend an
 ## 🖥️ Tech Stack
 1. php
 2. laravel
-3. golang
+3. golang gin
 4. redis
 5. mysql
 6. rabbitmq
